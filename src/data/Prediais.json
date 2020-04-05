@@ -1,0 +1,12 @@
+{
+  "Estacoes": [
+    {
+      "NomeDaEstacao": "Galeão",
+      "Sigla": "TEST",
+      "Localidade": "ILHA DO GOVERNADOR",
+      "NomeMunicipio": "ILHA DO GOVERNADOR",
+      "Endereco": "Av. Vinte de Janeiro, s/n",
+      "Lci": "I"
+    }
+  ]
+}
