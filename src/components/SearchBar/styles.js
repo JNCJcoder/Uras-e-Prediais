@@ -3,18 +3,15 @@ import { StyleSheet } from 'react-native';
 import Colors from '../../config/Theme';
 
 export default StyleSheet.create({
-  FlatList: {
-    paddingLeft: 10,
-  },
-  searchForm: {
-    marginBottom: 20,
-    top: 15,
-    left: 10,
-    right: 20,
+  container: {
+    flex: 1,
+    padding: 10,
+    paddingBottom: 0,
+    backgroundColor: "#eee"
   },
   searchInput: {
     height: 50,
-    width: '95%',
+    width: '100%',
     backgroundColor: Colors.background,
     color: Colors.searchText,
     borderRadius: 25,
@@ -23,12 +20,15 @@ export default StyleSheet.create({
   },
   searchButton: {
     position: 'absolute',
+    justifyContent: 'center',
+    alignItems: 'center',
     left: 0,
     width: 50,
     height: 50,
     backgroundColor: Colors.primary,
     borderRadius: 25,
-    justifyContent: 'center',
-    alignItems: 'center',
   },
-});
+  flatlist: {
+    paddingTop: 5,
+  },
+}); 

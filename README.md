@@ -25,7 +25,6 @@ Aplicativo criado para uso pela Technet-Eng no Rio De Janeiro, contendo informa�
 
 Feito com [React Native](https://reactnative.dev/) usando:
 
-- Prop Types
 - React Native Vector Icons
 - React Navigation
 - React Navigation BottomTabs
@@ -33,13 +32,7 @@ Feito com [React Native](https://reactnative.dev/) usando:
 
 ## 👨‍🏫 Testando:
 
-Necessario instalar o React Native CLI:
-
-```
-yarn global add react-native-cli
-```
-
-Depois execute o comando "yarn" dentro da pasta do projeto:
+Execute o comando "yarn" dentro da pasta do projeto:
 
 ```
 yarn
@@ -48,7 +41,7 @@ yarn
 Inicie o Projeto utilizando o seguinte comando:
 
 ```
-yarn android
+npx react-native run-android
 ```
 
 <br>

@@ -5,11 +5,11 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import { SearchBar } from '../../components';
 import Colors from '../../config/Theme';
 import customData from '../../data/Uraos.json';
-import styles from '../global';
+import styles from '../../globalStyle';
 
 export default function Urao() {
   const renderItem = ({ item }) => (
-    <View style={styles.Container}>
+    <View style={styles.item}>
       <Text>
         <Icon name="chrome-reader-mode" size={15} color={Colors.primary} />
         Ura: {item.Sigla}

@@ -5,11 +5,11 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import { SearchBar } from '../../components';
 import Colors from '../../config/Theme';
 import customData from '../../data/Prediais.json';
-import styles from '../global';
+import styles from '../../globalStyle';
 
 export default function Prediais() {
   const renderItem = ({ item }) => (
-    <View style={styles.Container}>
+    <View style={styles.item}>
       <Text>
         Predial: {item.NomeDaEstacao} ( {item.Sigla} )
       </Text>
