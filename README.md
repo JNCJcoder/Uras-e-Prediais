@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<div align="center">
+<img src=".github\preview.png?raw=true" alt="Preview do Aplicativo" width="200" height="400">
+</div>
+
 ## 💻 Informações:
 
 > 🚩 Os Arquivos com as Uras, Urãos e Prediais não estão inclusos aqui por se tratarem de possíveis informações sigilosas da Oi, Estarei deixando arquivos de TESTE no lugar. 🚩
