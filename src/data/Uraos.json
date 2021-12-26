@@ -1,9 +1,328 @@
 {
   "Urao": [
     {
-      "Sigla": "TEST",
-      "undefined": "05/04",
-      "Endereco": "Av. Vinte de Janeiro, s/n - ILHA DO GOVERNADOR"
+      "Sigla": "PDSA",
+      "undefined": "19/09",
+      "Endereco": "Estrada da Lacomba  n°22– Tribobo – São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDSB",
+      "undefined": "14/09",
+      "Endereco": "Rua Sargento Aires Silva,255, Bairro Almerinda."
+    },
+    {
+      "Sigla": "PDSC",
+      "undefined": "01/06",
+      "Endereco": "Rua Exp. Belmiro Ferreira da Silva, 32"
+    },
+    {
+      "Sigla": "PDSD",
+      "undefined": "25/09",
+      "Endereco": "Rua Exp. Antonio Mathias Camargo, 171  - Tribobó "
+    },
+    {
+      "Sigla": "PDSE",
+      "undefined": "13/09",
+      "Endereco": "Estrada da Lacomba  n°22– Tribobo – São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDSF",
+      "undefined": "17/08",
+      "Endereco": "Rua Adrianinho Rocha, 26 Bairro Tribobó"
+    },
+    {
+      "Sigla": "PDSG",
+      "undefined": "06/06",
+      "Endereco": "Rua Olivia Lopes, s/nº - Arsenal"
+    },
+    {
+      "Sigla": "PDSH",
+      "undefined": "OK",
+      "Endereco": "Avenida Dr. Eugenio Borges, 450 Bairro Rio do Ouro"
+    },
+    {
+      "Sigla": "PDSI",
+      "undefined": "20/09",
+      "Endereco": "RuaJoão Capistrano de Abreu,LT 21 QD 81 Bairro Coelho"
+    },
+    {
+      "Sigla": "PDSJ",
+      "undefined": "15/08",
+      "Endereco": "Rua Laudelina de Almeida, Lt. 13 Q. 4 - Arsenal"
+    },
+    {
+      "Sigla": "PDSK",
+      "undefined": "15/06",
+      "Endereco": "Rua Mamede de Souza, 297"
+    },
+    {
+      "Sigla": "PDSL",
+      "undefined": "05/10",
+      "Endereco": "Avenida Doutor Eugenio Borges, 1615 Bairro Arsenal"
+    },
+    {
+      "Sigla": "PDSM",
+      "undefined": "15/06",
+      "Endereco": "Rua Clodomiro Antunes da Costa, Lt 10 quadra 5"
+    },
+    {
+      "Sigla": "PDSN",
+      "undefined": "10/08",
+      "Endereco": "Rua Valdomiro Lobo, 465- Bairro Jockey"
+    },
+    {
+      "Sigla": "PDSO",
+      "undefined": "01/06",
+      "Endereco": "Rua Dalva Raposo, 499 - Tribobó"
+    },
+    {
+      "Sigla": "PDSP",
+      "undefined": "21/09",
+      "Endereco": "Rua Eneida de Freitas Medeiros LT 13 QD 16- Bairro Jardim Independência"
+    },
+    {
+      "Sigla": "PDSQ",
+      "undefined": "06/06",
+      "Endereco": "Avenida  Jose Lopes Raposo, 680"
+    },
+    {
+      "Sigla": "PDSR",
+      "undefined": "06/06",
+      "Endereco": "Rua Expedicionário João Batista Reis, 20"
+    },
+    {
+      "Sigla": "PDSS",
+      "undefined": "19/09",
+      "Endereco": "Rua Acurcio Torres, 80 Bairro Jockey Club"
+    },
+    {
+      "Sigla": "PDST",
+      "undefined": "OK",
+      "Endereco": "Rua Cremeride,  LT 5 QD 1 - Bairro Almerinda"
+    },
+    {
+      "Sigla": "PDSU",
+      "undefined": "30/09",
+      "Endereco": "Estr. do Coelho, 620 esquina c/ Rua Garcia Pires ,Bairro Coelho - São Gonçalo"
+    },
+    {
+      "Sigla": "PDSV",
+      "undefined": "07/11",
+      "Endereco": "Rua Emídio Dantas Barreto, nº200, Amendoeira, São Gonçalo"
+    },
+    {
+      "Sigla": "PDSW",
+      "undefined": "02/10",
+      "Endereco": "Rua Francisco José da Silva LT 16 QD N- Bairro Pacheco"
+    },
+    {
+      "Sigla": "PDSX",
+      "undefined": "02/10",
+      "Endereco": "Rua Domingos Costa,  LT 09, Qd 62, Amendoeira  - SG "
+    },
+    {
+      "Sigla": "PDSY",
+      "undefined": "03/10",
+      "Endereco": "Av Marechal Povoas, 1161 Bairro Pacheco"
+    },
+    {
+      "Sigla": "PDSZ",
+      "undefined": "27/09",
+      "Endereco": "Rua Maria de Freitas, L 17, Qd 45, Amendoeira,  São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDTA",
+      "undefined": "05/11",
+      "Endereco": "Rua Luiz Teodoro Soares, 809 - Sacramento  - São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDTB",
+      "undefined": "OK",
+      "Endereco": "Estrada Monte Formoso, LT 2 QD 6 - Bairro Sacramento"
+    },
+    {
+      "Sigla": "PDTC",
+      "undefined": "14/08",
+      "Endereco": "Estrada do Anaia, Lt16, Qd02"
+    },
+    {
+      "Sigla": "PDTD",
+      "undefined": "22/08",
+      "Endereco": "Rua Jurema Fernandes da Silva, S/N"
+    },
+    {
+      "Sigla": "PDTE",
+      "undefined": "19/09",
+      "Endereco": "Rua Bonsucesso, 32 LT 8 QD 8 Bairro Santa Izabel"
+    },
+    {
+      "Sigla": "PDTF",
+      "undefined": "21/06",
+      "Endereco": "Rua João Moraes, 74 - Bairro Santa Isabel"
+    },
+    {
+      "Sigla": "PDTG",
+      "undefined": "OK",
+      "Endereco": "Estrada  de Itaitindiba,4 Bairro Santa Isabel"
+    },
+    {
+      "Sigla": "PDTH",
+      "undefined": "03/09",
+      "Endereco": "Rua Silva Porto, LT 4 QD 152 - Bairro Jardim Bom Retiro"
+    },
+    {
+      "Sigla": "PDTI",
+      "undefined": "11/10",
+      "Endereco": "Rua Zeferino  Costa, S/N, QD 47, Lt 21, Vista Alegre – São Gonçalo"
+    },
+    {
+      "Sigla": "PDTJ",
+      "undefined": "22/11",
+      "Endereco": "Rua Artur Napoleão , Lt 24,QD 314, Ca 2, Guaxindiba – São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDTK",
+      "undefined": "19/09",
+      "Endereco": "Rua Palmier Joaquim da Costa LT 192 QD 10 - Bairro Guaxindiba"
+    },
+    {
+      "Sigla": "PDTL",
+      "undefined": "11/10",
+      "Endereco": "Rua Moacir Serrano 5, casa 1, Jardim Bom Retiro"
+    },
+    {
+      "Sigla": "PDTM",
+      "undefined": "11/10",
+      "Endereco": "Rua General Savari Lt 32, QD 112, CA 2 – Jardim Bom Retiro"
+    },
+    {
+      "Sigla": "PDTN",
+      "undefined": "27/09",
+      "Endereco": "Av. Almirante Amorin do Vale, 44"
+    },
+    {
+      "Sigla": "PDTO",
+      "undefined": "OK"
+    },
+    {
+      "Sigla": "PDTP",
+      "undefined": "06/12",
+      "Endereco": "Estrada João de Abreu, Lote 03, Bairro Monjolos São Gonçalo RJ"
+    },
+    {
+      "Sigla": "PDTQ",
+      "undefined": "26/10",
+      "Endereco": "Rua Itamiami, LT 12 QD 181, Bairro Monjolos - São Gonçalo/RJ"
+    },
+    {
+      "Sigla": "PDTR",
+      "undefined": "22/11",
+      "Endereco": "Rua Novo México,37 – LT 40 – QD 81 – Mundel – São Gonçalo - RJ"
+    },
+    {
+      "Sigla": "PDTS",
+      "undefined": "19/10",
+      "Endereco": "Rua Antonieta Ana da Silva, 25 – São Gonçalo - RJ"
+    },
+    {
+      "Sigla": "PDTT",
+      "undefined": "11/10",
+      "Endereco": "Rua Alzira Vargas do Amaral Peixoto, Lt 4, QD 38 x Padre Manoel Nóbrega -  Vista Alegre"
+    },
+    {
+      "Sigla": "PDTU",
+      "undefined": "26/02",
+      "Endereco": "Rua Luiz Feliciana, nº 36, Qd. 82, Laranjal - São Gonçalo - RJ"
+    },
+    {
+      "Sigla": "PDTV",
+      "undefined": "11/01",
+      "Endereco": "Rua Cardeal Sebastião Leme, nº 975., Lagoinha - São Gonçalo - RJ"
+    },
+    {
+      "Sigla": "PDTW",
+      "undefined": "05/11",
+      "Endereco": "Rua Jaguari nº 319, Casa 04, Laranjal, São Gonçalo, RJ"
+    },
+    {
+      "Sigla": "PDTX",
+      "undefined": "22/11",
+      "Endereco": "Rua Domingos Salles S/N Qd 5, Lt 38, ( Antiga Rua B) Apollo II – Manilha /Itaboraí/RJ"
+    },
+    {
+      "Sigla": "PDTY",
+      "undefined": "22/11",
+      "Endereco": "Rua Rio Grande do Sul Lt 11, QD 8,  Marambaia  - Itaborai."
+    },
+    {
+      "Sigla": "PDTZ",
+      "undefined": "22/11",
+      "Endereco": "Estrada da Conceição, área 07 Qd 0 – Marambaia – Itaboraí/RJ"
+    },
+    {
+      "Sigla": "PDUB",
+      "undefined": "19/10",
+      "Endereco": "Av. Cidade de Campos, Lote 15 Quadra 173 – Trindade/ São Gonçalo/RJ\n\n\n"
+    },
+    {
+      "Sigla": "PDUC",
+      "undefined": "28/11",
+      "Endereco": "Rua Recife, Lt 10, Qd 96, Trindade – São Gonçalo"
+    },
+    {
+      "Sigla": "PDUD",
+      "undefined": "22/11",
+      "Endereco": "Rua Itaperuna, lote 23,quadra 116 – Trindade- São Gonçalo"
+    },
+    {
+      "Sigla": "PDUE",
+      "undefined": "22/11",
+      "Endereco": "Rua Otavio Tarquino, Lote 04 – Casa 02 – Mutuapira – São Gonçalo - RJ"
+    },
+    {
+      "Sigla": "PDUF",
+      "undefined": "17/01",
+      "Endereco": "Rua Leite Vasconcelos, 0, lt 266, Nova Cidade - São Gonçalo - RJ."
+    },
+    {
+      "Sigla": "PDUG",
+      "undefined": "06/12",
+      "Endereco": "Estrada da Conceição, nº 740, Itaúna, São Gonçalo – RJ"
+    },
+    {
+      "Sigla": "PDUH",
+      "undefined": "24/01",
+      "Endereco": "Rua Senador Mello Viana, 46, Lt 122, Itaúna, São Gonçalo - RJ "
+    },
+    {
+      "Sigla": "PDUI",
+      "undefined": "13/12",
+      "Endereco": "Estrada de Sapucaia nº 364, lote 359, Itaúna, São Gonçalo – Rio de Janeiro"
+    },
+    {
+      "Sigla": "PDUJ",
+      "undefined": "28/11",
+      "Endereco": "Rua José Luis ,40 Bairro Salgueiro São Gonçalo"
+    },
+    {
+      "Sigla": "PDUK",
+      "undefined": "14/01",
+      "Endereco": "Estrada da Itaoca, lote 3397, Itaoca, São Gonçalo - RJ. "
+    },
+    {
+      "Sigla": "PDUL",
+      "undefined": "09/01",
+      "Endereco": "Rua Oswaldo Aranha, lt 01 Qd. 02 (Antiga Rua A), esq./Rua Nereu Ramos, nº455, Amendoeira - Rio de Janeiro - RJ."
+    },
+    {
+      "Sigla": "PDUM",
+      "undefined": "28/11",
+      "Endereco": "Rua Froes da Cruz, nº 365, Itaúna, São Gonçalo"
+    },
+    {
+      "Sigla": "PDUN",
+      "undefined": "23/11",
+      "Endereco": "Estrada das Palmeiras, 352 – Loteamento  Balneário Codeço – Itauná – São Gonçalo/RJ"
     }
   ]
 }
