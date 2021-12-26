@@ -18,8 +18,6 @@
 
 ## 💻 Informações:
 
-> 🚩 Os Arquivos com as Uras, Urãos e Prediais não estão inclusos aqui por se tratarem de possíveis informações sigilosas da Oi, Estarei deixando arquivos de TESTE no lugar. 🚩
-
 <p align="center">
 Aplicativo criado para uso pela Technet-Eng no Rio De Janeiro, contendo informações e localização das Uras, Urãos e Prediais da Oi pelo Rio De Janeiro, com foco em Aparelhos Android. Aqui estou deixando a Source para guardar no meu Github.
 </p>
